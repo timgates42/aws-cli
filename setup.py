@@ -50,7 +50,7 @@ else:
 
 
 setup_options = dict(
-    name='awscli',
+    name='awscli42',
     version=find_version("awscli", "__init__.py"),
     description='Universal Command Line Environment for AWS.',
     long_description=read('README.rst'),
